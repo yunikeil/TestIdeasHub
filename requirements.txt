@@ -1,0 +1,5 @@
+sqlalchemy[asyncio]
+aiosqlite
+uvicorn[standard]
+pydantic
+fastapi
